@@ -1,2 +1,2 @@
-# CSS---QR-code
+# CSS - QR code
 frontendmentor practise
